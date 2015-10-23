@@ -26,4 +26,5 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'letter_opener'
   gem 'email_spec'
+  gem 'eventmachine', '~> 1.0', '>= 1.0.8'
 end
